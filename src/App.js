@@ -1,6 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 
+const React = require('react');
+
+/**
+ * Adds two numbers together.
+ * @return {HTMLCollection}
+ */
 function App() {
   return (
     <div className="App">
